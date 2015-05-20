@@ -54,5 +54,5 @@ function startsWith(stringName){
 
 function stringRepeat(string, number) {
 	number = (Math.abs(number));
-	string = 
+	return string(number + 1).j
 }
